@@ -1,3 +1,8 @@
+# Cypress Automation Project 2025
+
+Author: Natanael Correa
+Base Project: https://github.com/kiuviqa/base-framework-cypress.git
+
 # Cypress Automation Framework
 
 This repository contains automations for a software project
