@@ -1,4 +1,4 @@
-import { fakerES as faker} from '@faker-js/faker';;
+import { fakerES as faker} from '@faker-js/faker';
 
 class DataGenerator {
     constructor() {
